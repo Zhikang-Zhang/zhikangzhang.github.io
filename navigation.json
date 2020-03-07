@@ -9,7 +9,8 @@
         {
             "text": "Research",
             "target": "text/research.md",
-            "navi": false
+            "navi": true,
+            "toc": false
         }
     ],
     "actions":
