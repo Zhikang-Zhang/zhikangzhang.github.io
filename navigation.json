@@ -7,8 +7,8 @@
             "toc": false
         },
         {
-            "text": "Notebook",
-            "target": "_vnote.json",
+            "text": "Research",
+            "target": "text/research.md",
             "navi": true
         }
     ],
