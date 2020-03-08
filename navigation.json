@@ -2,14 +2,39 @@
     "navigation":
     [
         {
-            "text": "Home",
-            "target": "index.md",
+            "text": "About",
+            "target": "text/en/about.md",
+            "navi": false,
             "toc": false
         },
         {
             "text": "Research",
-            "target": "text/research.md",
-            "navi": true,
+            "target": "text/en/research.md",
+            "navi": false,
+            "toc": false
+        },
+        {
+            "text": "CV",
+            "target": "text/en/cv.md",
+            "navi": false,
+            "toc": false
+        },
+        {
+            "text": "关于",
+            "target": "text/cn/about.md",
+            "navi": false,
+            "toc": false
+        },
+        {
+            "text": "研究",
+            "target": "text/cn/research.md",
+            "navi": false,
+            "toc": false
+        },
+        {
+            "text": "简历",
+            "target": "text/cn/cv.md",
+            "navi": false,
             "toc": false
         }
     ],
